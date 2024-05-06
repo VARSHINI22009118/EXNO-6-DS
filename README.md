@@ -18,6 +18,11 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+
+```
+NAME: VARSHINI S A
+REGNO: 212222100059
+```
 ```
 import pandas as pd
 df=pd.read_csv("/content/titanic_dataset.csv")
